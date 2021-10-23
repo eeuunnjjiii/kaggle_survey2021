@@ -40,8 +40,8 @@ Q14 | Vis_library  | 평소에 사용하는 시각화 라이브러리 |
 Q15 | Years_ML_Method | ML 방법론을 사용한 년수 | 
 Q16 | ML_framework | 사용하는 ML 프레임워크 ex) TensorFlow, Keras, Scikit-learn, etc) | 
 Q17 | ML_algorithm | 사용하는 ML 알고리즘 |  
-Q18 | Method_CV  | 사용하는 컴퓨터비전 방법론 | 
-Q19 | Method_NLP | 사용하는 장연어처리 방법론| Q18, Q19는 Q17에서 관련된 선택지를 골랐을 때
+Q18 | Method_CV  | 사용하는 컴퓨터비전 방법론 | Q17에서 관련된 선택지를 골랐을 때
+Q19 | Method_NLP | 사용하는 장연어처리 방법론| Q17에서 관련된 선택지를 골랐을 때
 Q20 | JobIndustry  | 현재 종사하는 산업 |
 Q21 | CompanySize | 회사규모 | 
 Q22 | Num_Workloads |  사내 데이터사이언스 관련 업무에 종사하는 직원 수 | 
