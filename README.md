@@ -33,12 +33,12 @@ Q7 | Language_regular | 일반적으로 사용하는 기간  |
 Q8 | Language_first | 데이터사이언스로서 추천하는 언어 | 
 Q9 | IDE | 사용하는 소프트웨어 어플리케이션 인터페이스(IDE) | 
 Q10 | Notebook | 사용하는 Notebook ex) Jupyter Notebook, Kaggle Notebook, etc. | 
-Q11 | Computer  | 사용하는 컴퓨터 또는 컴퓨팅 플랫폼 ex) labtop, NVIDIA, etc_ | 
+Q11 | Computer  | 사용하는 컴퓨터 또는 컴퓨팅 플랫폼 ex) labtop, NVIDIA, etc. | 
 Q12 | Hardware | 딥러닝을 위해 사용하는 하드웨어 (TPU, GPU, etc)  | 
 Q13 | Duration_TPU | TPU 사용한 횟수 | 
 Q14 | Vis_library  | 평소에 사용하는 시각화 라이브러리 | 
 Q15 | Years_ML_Method | ML 방법론을 사용한 년수 | 
-Q16 | ML_framework | 사용하는 ML 프레임워크 ex) TensorFlow, Keras, Scikit-learn, etc) | 
+Q16 | ML_framework | 사용하는 ML 프레임워크 ex) TensorFlow, Keras, Scikit-learn, etc. | 
 Q17 | ML_algorithm | 사용하는 ML 알고리즘 |  
 Q18 | Method_CV  | 사용하는 컴퓨터비전 방법론 | Q17에서 관련된 선택지를 골랐을 때
 Q19 | Method_NLP | 사용하는 장연어처리 방법론| Q17에서 관련된 선택지를 골랐을 때
