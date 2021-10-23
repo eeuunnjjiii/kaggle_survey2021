@@ -3,14 +3,14 @@
 
 
 # 데이터 이름
-
 데이터프레임 또는 컬럼명을 명시할 때 사용할 이름들입니다. 협업시 통일된 명칭을 사용하여 작업이 용이할 수 있도록 참고해주시기 바랍니다! 
 
 ## 데이터프레임
-데이터프레임명은 'response'로 해주세요! ex) response = pd.DataFrame('kaggle_survey_2021_responses.csv')
+데이터프레임명은 'response'로 해주세요! 
+ex) response = pd.DataFrame('kaggle_survey_2021_responses.csv')
 
 ## 설문지
-각 설문지(컬럼)마다 정의된 이름들 입니다.
+각 설문지(컬럼)마다 정의된 이름입니다.
 
 설문지번호 | 이름 | 설명 | 특이사항
 :--|:--|:--|:--
@@ -56,4 +56,5 @@ Q39 | PublicToDeploy  |   데이터분석 또는 머신러닝 앱을 배포하�
 Q40 | PlatformToLear_DS  |   데이터사이언스를 배울때 사용했던 플랫폼 | 
 Q41 | PrimaryTool  |  직장 또는 학교에서 데이터분석시 우선적으로 사용하는 도구 | 
 Q42 | MediaSourceToLearn  |   데이터사이언스와 관련된 주제를 다루는 미디어 중 가장 선호하는 채널은? | 
+
 
