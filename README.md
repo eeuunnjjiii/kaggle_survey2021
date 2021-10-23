@@ -21,7 +21,7 @@ ex) response = pd.DataFrame('kaggle_survey_2021_responses.csv')
 ## 설문지
 **각 설문지(컬럼)마다 정의된 이름**입니다.
 
-설문지번호 | 이름 | 설명 | 특이사항
+설문지번호 | 사용할 명칭 | 설명 | 특이사항
 :--|:--|:--|:--
 Q1 | Age |  나이 | 
 Q2 | Gender |  성별 | 
