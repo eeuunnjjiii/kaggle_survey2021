@@ -5,7 +5,7 @@
 이름|깃헙주소
 --|--
 김기훈|
-김진우|
+김진우|https://github.com/Jinwooxxi
 박주윤|https://github.com/xper100
 박지영|
 정은지|
