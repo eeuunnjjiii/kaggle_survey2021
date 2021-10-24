@@ -4,7 +4,7 @@
 # 참여인원
 이름|깃헙주소
 --|--
-김기훈|
+김기훈|https://github.com/Sep-eg
 김진우|
 박주윤|https://github.com/xper100
 박지영|
