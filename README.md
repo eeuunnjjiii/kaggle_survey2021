@@ -8,7 +8,7 @@
 김진우|https://github.com/Jinwooxxi
 박주윤|https://github.com/xper100
 박지영|
-정은지|
+정은지|https://github.com/eeuunnjjiii
 
 
 # 데이터 이름
