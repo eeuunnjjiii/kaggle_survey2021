@@ -7,7 +7,7 @@
 김기훈|
 김진우|https://github.com/Jinwooxxi
 박주윤|https://github.com/xper100
-박지영|
+박지영|https://github.com/dddddyoung2
 정은지|
 
 
