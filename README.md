@@ -4,12 +4,11 @@
 # 참여인원
 이름|깃헙주소
 --|--
-김기훈|
+김기훈|https://github.com/Sep-eg
 김진우|https://github.com/Jinwooxxi
 박주윤|https://github.com/xper100
-박지영|
-정은지|
-
+박지영|https://github.com/dddddyoung2
+정은지|https://github.com/eeuunnjjiii
 
 # 데이터 이름
 데이터프레임 또는 컬럼명을 명시할 때 사용할 이름들입니다. **협업 시 통일된 명칭을 사용하여 작업이 용이할 수 있도록 참고**해주시기 바랍니다! 
